@@ -62,8 +62,9 @@
     - 주제 : Select 함수를 이용한 단체 채팅 서버 구현   
     - 역할   
 		> 멀티 프로그래밍 기법인 select 함수를 이용한 다중 사용자 채팅 서버 구현   
-		> 서버, 클라이언트 프로그램 구현   
-    [Network Solo project](https://github.com/leehyeongseuk/TCPIP/tree/master/Select_Multi_Chat)   
+		> 클라이언트 프로그램 구현   
+		> 로그인 및 회원가입 기능 구현(Not used UI Program)   
+    [Network Solo project](https://github.com/leehyeongseuk/TCPIP/blob/master/Select_Multi_Chat/%EB%A9%80%ED%8B%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%8B%A4%EC%A4%91%20%EC%B1%84%ED%8C%85%20%EC%84%9C%EB%B2%84.pdf)   
 
   - **Android Project(4인 1팀)**   
     - 주제 : Tmap API를 활용한 공유 퍼스널 모빌리티 서비스 앱 개발   
