@@ -42,9 +42,9 @@
     - 주제 : 네이버 스터디 카페 모방   
     - 역할   
       1. IDE와 MySQL 연동 및 회원 정보를 통한 JSP 페이지 기능 구현   
-        - 관리자 홈페이지 회원 정보 삽입, 삭제   
-        - 게시글 작성, 수정, 삭제 기능   
-        - 댓글 표시 기능   
+          - 관리자 홈페이지 회원 정보 삽입, 삭제   
+          - 게시글 작성, 수정, 삭제 기능   
+          - 댓글 표시 기능   
       [Web Service Project - branch : LHS](https://github.com/leehyeongseuk/Web-Service_Team-project/tree/LHS)   
 
   - **Network Programming(4인 1팀)**   
@@ -53,16 +53,16 @@
       1. raw socket 조사   
       2. packet capture를 위한 TCP/IP 5계층 조사 및 발표   
       3. core 기능 구현   
-        - raw socket 생성   
-        - recvfrom() 함수를 통한 패킷 캡쳐(ifconfig [ethernet name] promisc 명령어 실행)   
-        - buffer에 저장된 정보를 각 프로토콜 구조체에 저장 후 출력   
+          - raw socket 생성   
+          - recvfrom() 함수를 통한 패킷 캡쳐(ifconfig [ethernet name] promisc 명령어 실행)   
+          - buffer에 저장된 정보를 각 프로토콜 구조체에 저장 후 출력   
     [packet capture project presentation](https://github.com/leehyeongseuk/TCPIP/blob/master/PacketCaptureProgram/%ED%8C%A8%ED%82%B7%EC%BA%A1%EC%B3%90%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%84%A4%EA%B3%84.pdf)   
 
   - **Network Programming(1인 1팀)**   
     - 주제 : Select 함수를 이용한 단체 채팅 서버 구현   
     - 역할   
-		멀티 프로그래밍 기법인 select 함수를 이용한 다중 사용자 채팅 서버 구현   
-		서버, 클라이언트 프로그램 구현   
+		> 멀티 프로그래밍 기법인 select 함수를 이용한 다중 사용자 채팅 서버 구현   
+		> 서버, 클라이언트 프로그램 구현   
     [Network Solo project](https://github.com/leehyeongseuk/TCPIP/tree/master/Select_Multi_Chat)   
 
   - **Android Project(4인 1팀)**   
