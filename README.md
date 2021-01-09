@@ -20,8 +20,8 @@
     - 주제 : 핸드폰 연동 스마트 화분   
     - 역할   
       1. 블루투스 모듈과 안드로이드 어플리케이션 사이 MySQL 연결   
-        - 안드로이드에서 json 파일을 사용하여 MySQL에 데이터 전송   
-        - 블루투스 모듈에서 php 언어를 사용하여 MySQL에 데이터 전송   
+          - 안드로이드에서 json 파일을 사용하여 MySQL에 데이터 전송   
+          - 블루투스 모듈에서 php 언어를 사용하여 MySQL에 데이터 전송   
       2. 전송받은 데이터를 통한 화분에 각종 센서들 제어   
     [RC Project(branch : Dev)](https://github.com/leehyeongseuk/RC_Project/tree/Dev)   
 
