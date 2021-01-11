@@ -27,7 +27,7 @@
 
   - **Data Analysis(2인 1팀)**   
     - 주제 : 시계열 데이터 예측을 적용한 코로나 19 현상황 이해 및 향후 30일 이후 예측   
-    - 출처 : 케라스   
+    - 출처 : 케글   
     - 오차율 : 95%   
     [Data Analysis - COVID19](https://github.com/Lee-HyeongSeok/Data_Analysis/blob/master/Data_analysis_project/%EC%8B%9C%EA%B3%84%EC%97%B4%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%98%88%EC%B8%A1_%EC%BD%94%EB%A1%9C%EB%82%9819.pdf)   
 
