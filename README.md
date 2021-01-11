@@ -1,4 +1,4 @@
-### Lee hyeongseuk 👋   
+### Lee hyeongseok 👋   
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leehyeongseuk&show_icons=true&theme=dark)   
 
